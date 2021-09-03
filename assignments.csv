@@ -1,5 +1,5 @@
 names,nationalities,dial/nego,quality,assigned,status,reviewer
-andres-santiago,colombiano-colombiano,dial,G,jijosjimal,2nd revision,Cristian1
+andres-santiago,colombiano-colombiano,dial,G,jijosjimal,accepted,Cristian1
 andres-santiago,colombiano-colombiano,nego,R,Lanna-27,accepted,Sonia1
 cesar-kehui,chino-colombiano,dial,B,oolivos27,in revision,Juan8
 cesar-kehui,chino-colombiano,nego,R,fore1806,accepted,Cristian2
@@ -12,7 +12,7 @@ david-decano,colombiano-colombiano,dial,G,oolivos27,accepted,Sandra6
 david-decano,colombiano-colombiano,nego,G,kafkka,accepted,Sandra2
 fabian-david,colombiano-colombiano,dial,B,gurbinaUn,in revision,David7
 fabian-david,colombiano-colombiano,nego,G,Camilo0806,awaiting,
-juanca-kaidi,chino-colombiano,dial,G,JuanFra0000,final revision,Cristian4
+juanca-kaidi,chino-colombiano,dial,G,JuanFra0000,accepted,Cristian4
 juanca-kaidi,chino-colombiano,nego,G,mald0nad0,awaiting,
 kaidi-li,chino-chino,dial,G,valecruzdp,accepted,Sonia2
 kaidi-li,chino-chino,nego,G,GNGonzalez,accepted,David1
@@ -25,7 +25,7 @@ liyue-carolina,chino-colombiano,nego,G,joviedog,accepted,Sandra3
 miguel-david,colombiano-colombiano,dial,G,Rey7910,accepted,Juan7
 miguel-david,colombiano-colombiano,nego,G,jyarac,fixing,David6
 nelly-jorge,colombiano-colombiano,dial,G,anfonsecag,accepted,Sonia3
-nelly-jorge,colombiano-colombiano,nego,R,ssanchezro2000,final revision,Cristian5
+nelly-jorge,colombiano-colombiano,nego,R,ssanchezro2000,accepted,Cristian5
 pilar-liyue,chino-colombiano,dial,G,Rafaelo13,accepted,Juan5
 pilar-liyue,chino-colombiano,nego,G,IJuggernaut,accepted,Sandra4
 sergio-martha,colombiano-colombiano,dial,G,SantiagoMirandaPointPy,accepted,Sonia4
