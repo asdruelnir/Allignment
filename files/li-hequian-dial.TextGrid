@@ -1,0 +1,949 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 435.049 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Ch1" 
+        xmin = 0 
+        xmax = 433.493 
+        intervals: size = 86 
+        intervals [1]:
+            xmin = 0 
+            xmax = 7.858780045474759 
+            text = "In my opinion Ok yeah I think the life in the in the city is more convenient    " 
+        intervals [2]:
+            xmin = 7.858780045474759 
+            xmax = 8.190929809923038 
+            text = "" 
+        intervals [3]:
+            xmin = 8.190929809923038 
+            xmax = 8.666958333333334 
+            text = "umm" 
+        intervals [4]:
+            xmin = 8.666958333333334 
+            xmax = 10.626694749210413 
+            text = "for example we can" 
+        intervals [5]:
+            xmin = 10.626694749210413 
+            xmax = 11.955293807003528 
+            text = "um" 
+        intervals [6]:
+            xmin = 11.955293807003528 
+            xmax = 12.538604166666667 
+            text = "" 
+        intervals [7]:
+            xmin = 12.538604166666667 
+            xmax = 13.173176276647215 
+            text = "um" 
+        intervals [8]:
+            xmin = 13.173176276647215 
+            xmax = 16.78908333333333 
+            text = "Our guys dont like eats i.. in" 
+        intervals [9]:
+            xmin = 16.78908333333333 
+            xmax = 18.081611684605107 
+            text = "in our home" 
+        intervals [10]:
+            xmin = 18.081611684605107 
+            xmax = 19.307624999999998 
+            text = "" 
+        intervals [11]:
+            xmin = 19.307624999999998 
+            xmax = 21.48845833333333 
+            text = "So we can eat um outside" 
+        intervals [12]:
+            xmin = 21.48845833333333 
+            xmax = 22.288842034283302 
+            text = " um" 
+        intervals [13]:
+            xmin = 22.288842034283302 
+            xmax = 25.28325 
+            text = "I think living in the.." 
+        intervals [14]:
+            xmin = 25.28325 
+            xmax = 34.24900186893524 
+            text = "..." 
+        intervals [15]:
+            xmin = 34.24900186893524 
+            xmax = 37.8761875 
+            text = "in a maid is more comfortable " 
+        intervals [16]:
+            xmin = 37.8761875 
+            xmax = 42.53142918649827 
+            text = "because eh the life is more quiet" 
+        intervals [17]:
+            xmin = 42.53142918649827 
+            xmax = 48.12492374429773 
+            text = "and you can eat the food for example you can feed the " 
+        intervals [18]:
+            xmin = 48.12492374429773 
+            xmax = 48.457073508746014 
+            text = "" 
+        intervals [19]:
+            xmin = 48.457073508746014 
+            xmax = 48.89993986134372 
+            text = "c" 
+        intervals [20]:
+            xmin = 48.89993986134372 
+            xmax = 49.82257809592227 
+            text = "" 
+        intervals [21]:
+            xmin = 49.82257809592227 
+            xmax = 51.409515859397374 
+            text = "chi chicken" 
+        intervals [22]:
+            xmin = 51.409515859397374 
+            xmax = 59.52885416666667 
+            text = "chicken and the mmm mmm and the cow in the in your mm in your house and the eh you can eat the food" 
+        intervals [23]:
+            xmin = 59.52885416666667 
+            xmax = 61.89701315335635 
+            text = "..." 
+        intervals [24]:
+            xmin = 61.89701315335635 
+            xmax = 62.819651387934904 
+            text = "healthy" 
+        intervals [25]:
+            xmin = 62.819651387934904 
+            xmax = 64.25896703387744 
+            text = "healthy food" 
+        intervals [26]:
+            xmin = 64.25896703387744 
+            xmax = 64.88636103339086 
+            text = "" 
+        intervals [27]:
+            xmin = 64.88636103339086 
+            xmax = 65.69828267981998 
+            text = "..." 
+        intervals [28]:
+            xmin = 65.69828267981998 
+            xmax = 66.21496009118397 
+            text = "" 
+        intervals [29]:
+            xmin = 66.21496009118397 
+            xmax = 66.93975 
+            text = "in other" 
+        intervals [30]:
+            xmin = 66.93975 
+            xmax = 69.01978032430276 
+            text = "in the in the others" 
+        intervals [31]:
+            xmin = 69.01978032430276 
+            xmax = 70.75434020531044 
+            text = "..." 
+        intervals [32]:
+            xmin = 70.75434020531044 
+            xmax = 75.29372031943691 
+            text = "I think so the air in country is more" 
+        intervals [33]:
+            xmin = 75.29372031943691 
+            xmax = 76.34088460621277 
+            text = "" 
+        intervals [34]:
+            xmin = 76.34088460621277 
+            xmax = 78.1861610619901 
+            text = "hm yes" 
+        intervals [35]:
+            xmin = 78.1861610619901 
+            xmax = 83.52309636079102 
+            text = "but in the mm the the better choice if" 
+        intervals [36]:
+            xmin = 83.52309636079102 
+            xmax = 86.10648339887929 
+            text = "we live in the city in" 
+        intervals [37]:
+            xmin = 86.10648339887929 
+            xmax = 86.53 
+            text = "" 
+        intervals [38]:
+            xmin = 86.53 
+            xmax = 86.84459398119023 
+            text = "uh" 
+        intervals [39]:
+            xmin = 86.84459398119023 
+            xmax = 87.9148543255411 
+            text = "from" 
+        intervals [40]:
+            xmin = 87.9148543255411 
+            xmax = 93.67211686756642 
+            text = "to to mon monday to friday and in the weekend" 
+        intervals [41]:
+            xmin = 93.67211686756642 
+            xmax = 100.44075 
+            text = "we can live in a house in a countryside to enjoy the life and eh relax" 
+        intervals [42]:
+            xmin = 100.44075 
+            xmax = 101.86814570219964 
+            text = "I think yeah" 
+        intervals [43]:
+            xmin = 101.86814570219964 
+            xmax = 102.60625628451058 
+            text = "" 
+        intervals [44]:
+            xmin = 102.60625628451058 
+            xmax = 103.60270557063035 
+            text = "mmm" 
+        intervals [45]:
+            xmin = 103.60270557063035 
+            xmax = 105.9277539049098 
+            text = "" 
+        intervals [46]:
+            xmin = 105.9277539049098 
+            xmax = 112.05407173809058 
+            text = "But in the city the traffic is more terrible" 
+        intervals [47]:
+            xmin = 112.05407173809058 
+            xmax = 114.29 
+            text = "" 
+        intervals [48]:
+            xmin = 114.29 
+            xmax = 117.63 
+            text = "but if you if you live in the countryside" 
+        intervals [49]:
+            xmin = 117.63 
+            xmax = 119.68007257878277 
+            text = "mm you" 
+        intervals [50]:
+            xmin = 119.68007257878277 
+            xmax = 121.78368773836894 
+            text = "have to have a car" 
+        intervals [51]:
+            xmin = 121.78368773836894 
+            xmax = 124.99446877142152 
+            text = "If you don t have a car is very difficult to go to work" 
+        intervals [52]:
+            xmin = 124.99446877142152 
+            xmax = 125.65876829550136 
+            text = "" 
+        intervals [53]:
+            xmin = 125.65876829550136 
+            xmax = 126.8766507563144 
+            text = "and everything" 
+        intervals [54]:
+            xmin = 126.8766507563144 
+            xmax = 132.06326202842655 
+            text = "..." 
+        intervals [55]:
+            xmin = 132.06326202842655 
+            xmax = 134.49902695005264 
+            text = "mmmm" 
+        intervals [56]:
+            xmin = 134.49902695005264 
+            xmax = 136.86282628690242 
+            text = "oh yeah I think so" 
+        intervals [57]:
+            xmin = 136.86282628690242 
+            xmax = 140.03670179083946 
+            text = "the pollu the pollution in the city is more grief" 
+        intervals [58]:
+            xmin = 140.03670179083946 
+            xmax = 143.32129388212314 
+            text = "" 
+        intervals [59]:
+            xmin = 143.32129388212314 
+            xmax = 149.85357253557493 
+            text = "for example in Tianjin the air and the earth is more healty" 
+        intervals [60]:
+            xmin = 149.85357253557493 
+            xmax = 156.50675279388096 
+            text = "..." 
+        intervals [61]:
+            xmin = 156.50675279388096 
+            xmax = 170.07454382217614 
+            text = "laughs" 
+        intervals [62]:
+            xmin = 170.07454382217614 
+            xmax = 171.03408757918035 
+            text = "" 
+        intervals [63]:
+            xmin = 171.03408757918035 
+            xmax = 171.88291474883795 
+            text = "and" 
+        intervals [64]:
+            xmin = 171.88291474883795 
+            xmax = 173.06389168053545 
+            text = "" 
+        intervals [65]:
+            xmin = 173.06389168053545 
+            xmax = 180.82 
+            text = "And i think in the city is more convenient" 
+        intervals [66]:
+            xmin = 180.82 
+            xmax = 182.3686326188591 
+            text = "" 
+        intervals [67]:
+            xmin = 182.3686326188591 
+            xmax = 189.554125 
+            text = "yes,when i go commute in my color bycicle, and when i go back" 
+        intervals [68]:
+            xmin = 189.554125 
+            xmax = 191.37117927358128 
+            text = "to... to the work" 
+        intervals [69]:
+            xmin = 191.37117927358128 
+            xmax = 194.47124371928723 
+            text = "..." 
+        intervals [70]:
+            xmin = 194.47124371928723 
+            xmax = 206.94531256034207 
+            text = "for the .... and the life a in the life in the mai.. in the city is more convenient" 
+        intervals [71]:
+            xmin = 206.94531256034207 
+            xmax = 210.94554264525468 
+            text = "you can, you can go to the work" 
+        intervals [72]:
+            xmin = 210.94554264525468 
+            xmax = 216.30679600619231 
+            text = "laughs" 
+        intervals [73]:
+            xmin = 216.30679600619231 
+            xmax = 225.0480023685994 
+            text = "and and in the country side you can stay in the" 
+        intervals [74]:
+            xmin = 225.0480023685994 
+            xmax = 226.67006647618433 
+            text = "" 
+        intervals [75]:
+            xmin = 226.67006647618433 
+            xmax = 228.51534293196167 
+            text = "in the park.." 
+        intervals [76]:
+            xmin = 228.51534293196167 
+            xmax = 229.3272645725037 
+            text = "farm" 
+        intervals [77]:
+            xmin = 229.3272645725037 
+            xmax = 241.0878405716642 
+            text = "and the look at the animals and the dogs and cats and it s also it s also comfortable" 
+        intervals [78]:
+            xmin = 241.0878405716642 
+            xmax = 245.1843543034899 
+            text = "..." 
+        intervals [79]:
+            xmin = 245.1843543034899 
+            xmax = 245.55340959464536 
+            text = "" 
+        intervals [80]:
+            xmin = 245.55340959464536 
+            xmax = 249.17015144796898 
+            text = "youre life is more healthy, so you can say" 
+        intervals [81]:
+            xmin = 249.17015144796898 
+            xmax = 263.5291707016233 
+            text = "..." 
+        intervals [82]:
+            xmin = 263.5291707016233 
+            xmax = 265.7446585636077 
+            text = "chinese" 
+        intervals [83]:
+            xmin = 265.7446585636077 
+            xmax = 292.2762419506432 
+            text = "" 
+        intervals [84]:
+            xmin = 292.2762419506432 
+            xmax = 342.84558844366177 
+            text = "" 
+        intervals [85]:
+            xmin = 342.84558844366177 
+            xmax = 344.5432427829769 
+            text = "i me too" 
+        intervals [86]:
+            xmin = 344.5432427829769 
+            xmax = 433.493 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Ch2" 
+        xmin = 0 
+        xmax = 435.049 
+        intervals: size = 146 
+        intervals [1]:
+            xmin = 0 
+            xmax = 22.83 
+            text = "" 
+        intervals [2]:
+            xmin = 22.83 
+            xmax = 33.54 
+            text = "" 
+        intervals [3]:
+            xmin = 33.54 
+            xmax = 36.282 
+            text = "" 
+        intervals [4]:
+            xmin = 36.282 
+            xmax = 36.329 
+            text = "what is it servant" 
+        intervals [5]:
+            xmin = 36.329 
+            xmax = 36.405 
+            text = "" 
+        intervals [6]:
+            xmin = 36.405 
+            xmax = 37.58 
+            text = "" 
+        intervals [7]:
+            xmin = 37.58 
+            xmax = 38.17 
+            text = "" 
+        intervals [8]:
+            xmin = 38.17 
+            xmax = 42.03 
+            text = "" 
+        intervals [9]:
+            xmin = 42.03 
+            xmax = 42.42 
+            text = "" 
+        intervals [10]:
+            xmin = 42.42 
+            xmax = 48.07 
+            text = "" 
+        intervals [11]:
+            xmin = 48.07 
+            xmax = 48.382 
+            text = "" 
+        intervals [12]:
+            xmin = 48.382 
+            xmax = 48.947 
+            text = "chi" 
+        intervals [13]:
+            xmin = 48.947 
+            xmax = 49.315 
+            text = "" 
+        intervals [14]:
+            xmin = 49.315 
+            xmax = 49.727 
+            text = "chi" 
+        intervals [15]:
+            xmin = 49.727 
+            xmax = 50.142 
+            text = "" 
+        intervals [16]:
+            xmin = 50.142 
+            xmax = 59.41 
+            text = "" 
+        intervals [17]:
+            xmin = 59.41 
+            xmax = 61.76 
+            text = "" 
+        intervals [18]:
+            xmin = 61.76 
+            xmax = 61.91 
+            text = "chinese" 
+        intervals [19]:
+            xmin = 61.91 
+            xmax = 62.82 
+            text = "" 
+        intervals [20]:
+            xmin = 62.82 
+            xmax = 64.16 
+            text = "" 
+        intervals [21]:
+            xmin = 64.16 
+            xmax = 70.1 
+            text = "" 
+        intervals [22]:
+            xmin = 70.1 
+            xmax = 70.44 
+            text = "mhm" 
+        intervals [23]:
+            xmin = 70.44 
+            xmax = 76.04564037328839 
+            text = "" 
+        intervals [24]:
+            xmin = 76.04564037328839 
+            xmax = 76.23016801886612 
+            text = "fresh" 
+        intervals [25]:
+            xmin = 76.23016801886612 
+            xmax = 78.331 
+            text = "" 
+        intervals [26]:
+            xmin = 78.331 
+            xmax = 79.21 
+            text = "" 
+        intervals [27]:
+            xmin = 79.21 
+            xmax = 83.38 
+            text = "" 
+        intervals [28]:
+            xmin = 83.38 
+            xmax = 83.52 
+            text = "" 
+        intervals [29]:
+            xmin = 83.52 
+            xmax = 83.83 
+            text = "uh" 
+        intervals [30]:
+            xmin = 83.83 
+            xmax = 83.87 
+            text = "" 
+        intervals [31]:
+            xmin = 83.87 
+            xmax = 86.09 
+            text = "" 
+        intervals [32]:
+            xmin = 86.09 
+            xmax = 86.53 
+            text = "" 
+        intervals [33]:
+            xmin = 86.53 
+            xmax = 86.82 
+            text = "uh" 
+        intervals [34]:
+            xmin = 86.82 
+            xmax = 86.85 
+            text = "" 
+        intervals [35]:
+            xmin = 86.85 
+            xmax = 87.2 
+            text = "from" 
+        intervals [36]:
+            xmin = 87.2 
+            xmax = 87.25 
+            text = "chinese" 
+        intervals [37]:
+            xmin = 87.25 
+            xmax = 89.79 
+            text = "" 
+        intervals [38]:
+            xmin = 89.79 
+            xmax = 95.21 
+            text = "" 
+        intervals [39]:
+            xmin = 95.21 
+            xmax = 100.31 
+            text = "" 
+        intervals [40]:
+            xmin = 100.31 
+            xmax = 111.75 
+            text = "" 
+        intervals [41]:
+            xmin = 111.75 
+            xmax = 112.004 
+            text = "ujm" 
+        intervals [42]:
+            xmin = 112.004 
+            xmax = 112.53 
+            text = "" 
+        intervals [43]:
+            xmin = 112.53 
+            xmax = 112.56 
+            text = "yes" 
+        intervals [44]:
+            xmin = 112.56 
+            xmax = 114.29 
+            text = "" 
+        intervals [45]:
+            xmin = 114.29 
+            xmax = 117.62 
+            text = "" 
+        intervals [46]:
+            xmin = 117.62 
+            xmax = 117.63 
+            text = "" 
+        intervals [47]:
+            xmin = 117.63 
+            xmax = 119.53 
+            text = "" 
+        intervals [48]:
+            xmin = 119.53 
+            xmax = 119.7 
+            text = "" 
+        intervals [49]:
+            xmin = 119.7 
+            xmax = 121.6 
+            text = "" 
+        intervals [50]:
+            xmin = 121.6 
+            xmax = 121.77 
+            text = "" 
+        intervals [51]:
+            xmin = 121.77 
+            xmax = 124.91 
+            text = "" 
+        intervals [52]:
+            xmin = 124.91 
+            xmax = 125.59 
+            text = "" 
+        intervals [53]:
+            xmin = 125.59 
+            xmax = 126.19 
+            text = "" 
+        intervals [54]:
+            xmin = 126.19 
+            xmax = 137.64 
+            text = "" 
+        intervals [55]:
+            xmin = 137.64 
+            xmax = 137.723 
+            text = "stop" 
+        intervals [56]:
+            xmin = 137.723 
+            xmax = 137.769 
+            text = "" 
+        intervals [57]:
+            xmin = 137.769 
+            xmax = 137.856 
+            text = "mm" 
+        intervals [58]:
+            xmin = 137.856 
+            xmax = 140.655 
+            text = "" 
+        intervals [59]:
+            xmin = 140.655 
+            xmax = 141.155 
+            text = "mmm" 
+        intervals [60]:
+            xmin = 141.155 
+            xmax = 142.057 
+            text = "" 
+        intervals [61]:
+            xmin = 142.057 
+            xmax = 143.3 
+            text = "" 
+        intervals [62]:
+            xmin = 143.3 
+            xmax = 143.3 
+            text = "pollution of the air is uh terrible" 
+        intervals [63]:
+            xmin = 143.434 
+            xmax = 143.46 
+            text = "the environment" 
+        intervals [64]:
+            xmin = 143.46 
+            xmax = 143.935 
+            text = "" 
+        intervals [65]:
+            xmin = 143.935 
+            xmax = 144.393 
+            text = "" 
+        intervals [66]:
+            xmin = 144.393 
+            xmax = 144.755 
+            text = "" 
+        intervals [67]:
+            xmin = 144.755 
+            xmax = 144.803 
+            text = "" 
+        intervals [68]:
+            xmin = 144.803 
+            xmax = 144.863 
+            text = "" 
+        intervals [69]:
+            xmin = 144.863 
+            xmax = 144.874 
+            text = "drink" 
+        intervals [70]:
+            xmin = 144.874 
+            xmax = 144.884 
+            text = "" 
+        intervals [71]:
+            xmin = 144.884 
+            xmax = 145.12 
+            text = "and mm ih uh" 
+        intervals [72]:
+            xmin = 145.12 
+            xmax = 145.826 
+            text = "" 
+        intervals [73]:
+            xmin = 145.826 
+            xmax = 146.023 
+            text = "" 
+        intervals [74]:
+            xmin = 146.023 
+            xmax = 146.319 
+            text = "chino barrio eh" 
+        intervals [75]:
+            xmin = 146.319 
+            xmax = 146.449 
+            text = "ground" 
+        intervals [76]:
+            xmin = 146.449 
+            xmax = 146.51 
+            text = "" 
+        intervals [77]:
+            xmin = 146.51 
+            xmax = 146.596 
+            text = "eh" 
+        intervals [78]:
+            xmin = 146.596 
+            xmax = 146.78 
+            text = "and uh" 
+        intervals [79]:
+            xmin = 146.78 
+            xmax = 181.13453819609217 
+            text = "" 
+        intervals [80]:
+            xmin = 181.13453819609217 
+            xmax = 181.57740454868988 
+            text = "'cause" 
+        intervals [81]:
+            xmin = 181.57740454868988 
+            xmax = 229.0868125 
+            text = "" 
+        intervals [82]:
+            xmin = 229.0868125 
+            xmax = 229.58691666666667 
+            text = "farm?" 
+        intervals [83]:
+            xmin = 229.58691666666667 
+            xmax = 234.95 
+            text = "" 
+        intervals [84]:
+            xmin = 234.95 
+            xmax = 235.49 
+            text = "" 
+        intervals [85]:
+            xmin = 235.49 
+            xmax = 235.87 
+            text = "eh" 
+        intervals [86]:
+            xmin = 235.87 
+            xmax = 235.88 
+            text = "" 
+        intervals [87]:
+            xmin = 235.88 
+            xmax = 239.79 
+            text = "" 
+        intervals [88]:
+            xmin = 239.79 
+            xmax = 266.0399027965321 
+            text = "" 
+        intervals [89]:
+            xmin = 266.0399027965321 
+            xmax = 266.66729679149637 
+            text = "em" 
+        intervals [90]:
+            xmin = 266.66729679149637 
+            xmax = 267.105 
+            text = "" 
+        intervals [91]:
+            xmin = 267.105 
+            xmax = 269.3362257004983 
+            text = "since I learned uh Spanish" 
+        intervals [92]:
+            xmin = 269.3362257004983 
+            xmax = 269.95 
+            text = "" 
+        intervals [93]:
+            xmin = 269.95 
+            xmax = 273.45 
+            text = "my English is day and oday more" 
+        intervals [94]:
+            xmin = 273.45 
+            xmax = 273.79 
+            text = "more poor" 
+        intervals [95]:
+            xmin = 273.79 
+            xmax = 276.15 
+            text = "..." 
+        intervals [96]:
+            xmin = 276.15 
+            xmax = 279.47 
+            text = "because the Spanish is so similar to English" 
+        intervals [97]:
+            xmin = 279.47 
+            xmax = 279.52 
+            text = "" 
+        intervals [98]:
+            xmin = 279.52 
+            xmax = 279.66 
+            text = "and" 
+        intervals [99]:
+            xmin = 279.66 
+            xmax = 280.133 
+            text = "" 
+        intervals [100]:
+            xmin = 280.133 
+            xmax = 281.334 
+            text = "mmm" 
+        intervals [101]:
+            xmin = 281.334 
+            xmax = 281.73 
+            text = "" 
+        intervals [102]:
+            xmin = 281.73 
+            xmax = 284.24 
+            text = "and my system of languages is" 
+        intervals [103]:
+            xmin = 284.24 
+            xmax = 285.04 
+            text = "" 
+        intervals [104]:
+            xmin = 285.04 
+            xmax = 286 
+            text = "exploding" 
+        intervals [105]:
+            xmin = 286 
+            xmax = 287.16528764526595 
+            text = "" 
+        intervals [106]:
+            xmin = 287.16528764526595 
+            xmax = 288.34626457696345 
+            text = "I I think so" 
+        intervals [107]:
+            xmin = 288.34626457696345 
+            xmax = 291.2618013770917 
+            text = "and when we learned" 
+        intervals [108]:
+            xmin = 291.2618013770917 
+            xmax = 292.31314747975875 
+            text = "mm Spanish" 
+        intervals [109]:
+            xmin = 292.31314747975875 
+            xmax = 292.8298248873764 
+            text = "" 
+        intervals [110]:
+            xmin = 292.8298248873764 
+            xmax = 293.64174652791843 
+            text = "the" 
+        intervals [111]:
+            xmin = 293.64174652791843 
+            xmax = 296.29986736096515 
+            text = "" 
+        intervals [112]:
+            xmin = 296.29986736096515 
+            xmax = 300.8556927169098 
+            text = "But when we learn Spanish we can we can know" 
+        intervals [113]:
+            xmin = 300.8556927169098 
+            xmax = 302.1473862359539 
+            text = "Umm" 
+        intervals [114]:
+            xmin = 302.1473862359539 
+            xmax = 302.9593078764959 
+            text = "" 
+        intervals [115]:
+            xmin = 302.9593078764959 
+            xmax = 306.5589811791151 
+            text = "Umm More more things about the world" 
+        intervals [116]:
+            xmin = 306.5589811791151 
+            xmax = 307.62924152346596 
+            text = "" 
+        intervals [117]:
+            xmin = 307.62924152346596 
+            xmax = 308.03520234373696 
+            text = "um" 
+        intervals [118]:
+            xmin = 308.03520234373696 
+            xmax = 311.2136256664043 
+            text = "For example the words of" 
+        intervals [119]:
+            xmin = 311.2136256664043 
+            xmax = 313.8 
+            text = "..." 
+        intervals [120]:
+            xmin = 313.8 
+            xmax = 316.3525232055507 
+            text = "of Latin America" 
+        intervals [121]:
+            xmin = 316.3525232055507 
+            xmax = 327.06 
+            text = "Yes and but I dont palpate unless ... flash i dont" 
+        intervals [122]:
+            xmin = 327.06 
+            xmax = 327.07 
+            text = "" 
+        intervals [123]:
+            xmin = 327.07 
+            xmax = 331.9656405660521 
+            text = "notice is the difficult difficulty " 
+        intervals [124]:
+            xmin = 331.9656405660521 
+            xmax = 333.70020043448284 
+            text = "of mmm" 
+        intervals [125]:
+            xmin = 333.70020043448284 
+            xmax = 334.9918939535269 
+            text = "" 
+        intervals [126]:
+            xmin = 334.9918939535269 
+            xmax = 339.8265182676636 
+            text = "of the confusion and computing between Spanish and french" 
+        intervals [127]:
+            xmin = 339.8265182676636 
+            xmax = 341.8 
+            text = "" 
+        intervals [128]:
+            xmin = 341.8 
+            xmax = 357.633964060521 
+            text = "and I see the French is more difficult than Spanish 
+But we can use the system of the grammar with spanish " 
+        intervals [129]:
+            xmin = 357.633964060521 
+            xmax = 374.01 
+            text = " for us to learn french But I there are many pronunciations in French that is impossible for us to pronounce" 
+        intervals [130]:
+            xmin = 374.01 
+            xmax = 374.52 
+            text = "" 
+        intervals [131]:
+            xmin = 374.52 
+            xmax = 376.95656249999996 
+            text = "for example the R" 
+        intervals [132]:
+            xmin = 376.95656249999996 
+            xmax = 381.68 
+            text = "..." 
+        intervals [133]:
+            xmin = 381.68 
+            xmax = 387.5366458333333 
+            text = "mmm" 
+        intervals [134]:
+            xmin = 387.5366458333333 
+            xmax = 392.2409744856515 
+            text = "Always learn over we learn about it " 
+        intervals [135]:
+            xmin = 392.2409744856515 
+            xmax = 400.05 
+            text = "we can retard retarded the words all araund the words" 
+        intervals [136]:
+            xmin = 400.05 
+            xmax = 408.948 
+            text = "yes and the because the spanish is spoken in the Latin America and the and the spread" 
+        intervals [137]:
+            xmin = 408.948 
+            xmax = 412.609501307012 
+            text = "is the server language " 
+        intervals [138]:
+            xmin = 412.609501307012 
+            xmax = 416.96 
+            text = "more use the language" 
+        intervals [139]:
+            xmin = 416.96 
+            xmax = 416.98 
+            text = "" 
+        intervals [140]:
+            xmin = 416.98 
+            xmax = 419.03020696256965 
+            text = "in the world " 
+        intervals [141]:
+            xmin = 419.03020696256965 
+            xmax = 424.2525625 
+            text = "and the Chinese can be the chinese too is spoken" 
+        intervals [142]:
+            xmin = 424.2525625 
+            xmax = 425.5259791666667 
+            text = "" 
+        intervals [143]:
+            xmin = 425.5259791666667 
+            xmax = 428.0759526597206 
+            text = "spoken is special" 
+        intervals [144]:
+            xmin = 428.0759526597206 
+            xmax = 432.8 
+            text = "" 
+        intervals [145]:
+            xmin = 432.8 
+            xmax = 433.244 
+            text = "spoken for" 
+        intervals [146]:
+            xmin = 433.244 
+            xmax = 435.049 
+            text = "" 
