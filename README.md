@@ -12,7 +12,7 @@ Praat link: https://www.fon.hum.uva.nl/praat/
 
 You'll find a tutorial for using Praat by professor David Herrera in the *TUTORIAL-UAN.mp4* file.
 
-This tutorial is simple since using Praat is really easy and intuitive. All you have to do is open both files in the Praat editor following the instructions in the tutorial and then edit the transcription file completing the following tasks:
+This tutorial is simple since using Praat is really easy and intuitive. All you have to do is open both files in the Praat editor following the instructions in the tutorial, and the rules in https://github.com/Allignment/Allignment/blob/main/transcription_rules.pdf and then edit the transcription file completing the following tasks:
 
 - **Correct Misspelling errors:** Despite that the transcription is already done, there may be some errors that you should recognize and correct so that the transcription is clean. For instance, in some files there are some *annotations* written in spanish, you should replace them appropiately.
 - **Transcribe and normalize backchannels and fillers**: You should recognize when people uses backchannels or fillers and then transcribe them if they're not. If they are allready transcribed you must replace them with the apporpiate ones, as the *transcription_rules.pdf* indicates.
