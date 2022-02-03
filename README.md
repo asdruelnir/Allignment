@@ -4,7 +4,7 @@ There are several interactions in this repository, each one with two files assoc
 
 Google drive link: https://drive.google.com/drive/folders/1EKgWmTmJ9399LF_ljGKqdG7zCRPvzmxs?usp=sharing
 
-In the *assignments.xlsx* file you'll find what are the interactions assigned to you.
+In the *assignments.csv* file you'll find what are the interactions assigned to you.
 
 Given an interaction assigned to you, you must download the respective audio files to your local computer, pull the git projects, and also download Praat editor for opening these files. You can download it clicking in the following link:
 
