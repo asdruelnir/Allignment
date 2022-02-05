@@ -1,6 +1,15 @@
 # Cognitive Annotation 2022
 
-For group 5 2022,please see rules in https://www.beautiful.ai/player/-Mv63a4WQKlK8WC6tgHX/Reglas
+For group 5 2022:
+1. Find you assigned wav under **cognition.csv**
+2. Open the wav file assigned to you using Praat (https://www.fon.hum.uva.nl/praat/).
+3. Select the file and click Annotate- To TextGrid...
+4. Remove Mary John bell and bell from textboxes
+5. Add ChineseSpeaker ColombianSpeaker for All tier names:
+6. Click Apply
+7. Select Both Sound and TextGrid using Shift and Click then click View & Edit
+8. please read rules at https://www.beautiful.ai/player/-Mv63a4WQKlK8WC6tgHX/Reglas
+9. if you're lost, watch the Praat tutorial *https://github.com/Allignment/Allignment/blob/main/TUTORIAL-UAN.mp4* from the Alignment Repository Project.
 
 # Allignment Repository
 
