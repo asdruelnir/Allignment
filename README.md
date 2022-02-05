@@ -1,3 +1,7 @@
+# Cognitive Annotation 2022
+
+For group 5 2022,please see rules in https://www.beautiful.ai/player/-Mv63a4WQKlK8WC6tgHX/Reglas
+
 # Allignment Repository
 
 There are several interactions in this repository, each one with two files associated, first, a transcription file in **textgrid** format (which may have some errors) and second an audio file in .wav format corresponding to that transcription. You'll find both files for each interaction in the following Google Drive folder. 
