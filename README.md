@@ -1,17 +1,16 @@
 # Cognitive Annotation 2022
 
 For group 5 2022:
-1. Find you assigned wav under **cognition.csv**
-2. Download your wav file from https://drive.google.com/drive/folders/1uyIt28QFXhtY8NaBLhzX3MFucb0fCboe?usp=sharing
-3. Optionally, download the mp4 file to see the video version for easier annotation (do not open video in Praat)  
-4. Open the wav file assigned to you using Praat (https://www.fon.hum.uva.nl/praat/).
-5. Select the file and click Annotate- To TextGrid...
-6. Remove Mary John bell and bell from textboxes
-7. Add ChineseSpeaker ColombianSpeaker for All tier names:
-8. Click Apply
-9. Select Both Sound and TextGrid using Shift and Click then click View & Edit
-10. please read rules at https://www.beautiful.ai/player/-Mv63a4WQKlK8WC6tgHX/Reglas
-11. if you're lost, watch the Praat tutorial *https://github.com/Allignment/Allignment/blob/main/TUTORIAL-UAN.mp4* from the Alignment Repository Project.
+1. Get the name of the dyad assigned to you under **cognition.csv**, and download that wav file from https://drive.google.com/drive/folders/1uyIt28QFXhtY8NaBLhzX3MFucb0fCboe?usp=sharing
+2. Optionally, download the mp4 file to see the video version for easier annotation (do not open video in Praat)  
+3. Open the wav file using Praat (https://www.fon.hum.uva.nl/praat/).
+4. Select the file in the taskpane and click Annotate- To TextGrid...
+5. Remove Mary John and both bell from textboxes
+6. Add ChineseSpeaker ColombianSpeaker for All tier names:
+7. Click Apply
+8. Select Both Sound and TextGrid using Shift and Click then click View & Edit
+9. You will now begin segmenting the ChineseSpeaker and ColombianSpeaker tiers based on the rules listed at https://www.beautiful.ai/player/-Mv63a4WQKlK8WC6tgHX/Reglas
+10. If you don't know how to use Praat to segment the tiers, watch the Praat tutorial *https://github.com/Allignment/Allignment/blob/main/TUTORIAL-UAN.mp4* from the Alignment Repository Project. This is a different project, but you can see how to navigate Praat.
 
 # Allignment Repository
 
