@@ -11,7 +11,7 @@ item []:
         name = "ChineseSpeaker" 
         xmin = 0 
         xmax = 1315 
-        intervals: size = 70 
+        intervals: size = 77 
         intervals [1]:
             xmin = 0 
             xmax = 16.257922928421582 
@@ -34,261 +34,289 @@ item []:
             text = "" 
         intervals [6]:
             xmin = 31.875093700267648 
-            xmax = 38.145041571723084 
-            text = "is mine picture no is pushing door, door it close, its are " 
+            xmax = 35.15028784909032 
+            text = "is mine picture no is pushing  " 
         intervals [7]:
-            xmin = 38.145041571723084 
+            xmin = 35.15028784909032 
+            xmax = 38.27927608936128 
+            text = "door, door it close, its are" 
+        intervals [8]:
+            xmin = 38.27927608936128 
             xmax = 45.93376973470052 
             text = "" 
-        intervals [8]:
+        intervals [9]:
             xmin = 45.93376973470052 
             xmax = 48.89564695005063 
             text = "but is walk, " 
-        intervals [9]:
+        intervals [10]:
             xmin = 48.89564695005063 
             xmax = 49.393194893954025 
             text = "" 
-        intervals [10]:
+        intervals [11]:
             xmin = 49.393194893954025 
             xmax = 52.66279961219766 
             text = "In there washing" 
-        intervals [11]:
+        intervals [12]:
             xmin = 52.66279961219766 
             xmax = 56.89405277698355 
             text = "" 
-        intervals [12]:
+        intervals [13]:
             xmin = 56.89405277698355 
             xmax = 61.009908128184364 
             text = "in the, in the, a picture i think" 
-        intervals [13]:
+        intervals [14]:
             xmin = 61.009908128184364 
             xmax = 63.47172815133252 
             text = "a in there" 
-        intervals [14]:
+        intervals [15]:
             xmin = 63.47172815133252 
             xmax = 63.971785343534485 
             text = "" 
-        intervals [15]:
+        intervals [16]:
             xmin = 63.971785343534485 
             xmax = 67.93377694328855 
             text = "in much him and starting starting in the" 
-        intervals [16]:
+        intervals [17]:
             xmin = 67.93377694328855 
             xmax = 71.22847072764903 
             text = "" 
-        intervals [17]:
+        intervals [18]:
             xmin = 71.22847072764903 
             xmax = 71.84392573343607 
             text = "yeah yeah" 
-        intervals [18]:
+        intervals [19]:
             xmin = 71.84392573343607 
             xmax = 80.76802331734811 
             text = "" 
-        intervals [19]:
+        intervals [20]:
             xmin = 80.76802331734811 
             xmax = 83.80683240842161 
             text = "best one remember, pushed in there " 
-        intervals [20]:
+        intervals [21]:
             xmin = 83.80683240842161 
             xmax = 88.38427901396271 
             text = "" 
-        intervals [21]:
+        intervals [22]:
             xmin = 88.38427901396271 
             xmax = 89.23052964691989 
             text = "a there" 
-        intervals [22]:
+        intervals [23]:
             xmin = 89.23052964691989 
             xmax = 95.92360283485392 
             text = "" 
-        intervals [23]:
+        intervals [24]:
             xmin = 95.92360283485392 
             xmax = 99.0393438016508 
             text = "aa thats in the bay into the room" 
-        intervals [24]:
+        intervals [25]:
             xmin = 99.0393438016508 
             xmax = 102.29598781749283 
             text = "" 
-        intervals [25]:
+        intervals [26]:
             xmin = 102.29598781749283 
             xmax = 102.94990876114156 
             text = "i think" 
-        intervals [26]:
+        intervals [27]:
             xmin = 102.94990876114156 
             xmax = 105.83915218180003 
             text = "" 
-        intervals [27]:
+        intervals [28]:
             xmin = 105.83915218180003 
             xmax = 111.58277443106454 
             text = "yeah,to the clothes in there, in a " 
-        intervals [28]:
+        intervals [29]:
             xmin = 111.58277443106454 
             xmax = 116.38041806710004 
             text = "" 
-        intervals [29]:
+        intervals [30]:
             xmin = 116.38041806710004 
             xmax = 117.0233608561968 
             text = "but" 
-        intervals [30]:
+        intervals [31]:
             xmin = 117.0233608561968 
             xmax = 117.83775505571938 
             text = "" 
-        intervals [31]:
+        intervals [32]:
             xmin = 117.83775505571938 
             xmax = 121.6525489376936 
             text = "action action is my pushing door" 
-        intervals [32]:
+        intervals [33]:
             xmin = 121.6525489376936 
             xmax = 125.46734281966779 
             text = "" 
-        intervals [33]:
+        intervals [34]:
             xmin = 125.46734281966779 
             xmax = 127.18185692392586 
             text = "is the much" 
-        intervals [34]:
+        intervals [35]:
             xmin = 127.18185692392586 
             xmax = 128.33915394430005 
             text = "" 
-        intervals [35]:
+        intervals [36]:
             xmin = 128.33915394430005 
             xmax = 129.23927384903553 
             text = "yeah" 
-        intervals [36]:
+        intervals [37]:
             xmin = 129.23927384903553 
             xmax = 132.02316230747104 
             text = "" 
-        intervals [37]:
+        intervals [38]:
             xmin = 132.02316230747104 
             xmax = 132.88041935960007 
             text = "but i think" 
-        intervals [38]:
+        intervals [39]:
             xmin = 132.88041935960007 
             xmax = 140.08137859748396 
             text = "" 
-        intervals [39]:
-            xmin = 140.08137859748396 
-            xmax = 146.59653219366464 
-            text = "and but is my picture the door it close from the basket and put indoor" 
         intervals [40]:
+            xmin = 140.08137859748396 
+            xmax = 143.96329244253235 
+            text = "and but is my picture the door it close " 
+        intervals [41]:
+            xmin = 143.96329244253235 
+            xmax = 146.59653219366464 
+            text = "from the basket and put indoor" 
+        intervals [42]:
             xmin = 146.59653219366464 
             xmax = 148.1395948874969 
             text = "" 
-        intervals [41]:
+        intervals [43]:
             xmin = 148.1395948874969 
             xmax = 151.91152591686466 
             text = "yeah i think the push man" 
-        intervals [42]:
+        intervals [44]:
             xmin = 151.91152591686466 
             xmax = 154.0118056945808 
             text = "" 
-        intervals [43]:
+        intervals [45]:
             xmin = 154.0118056945808 
             xmax = 158.12324424146132 
             text = "yeah is an a second both" 
-        intervals [44]:
+        intervals [46]:
             xmin = 158.12324424146132 
             xmax = 170.93763938098394 
             text = "" 
-        intervals [45]:
+        intervals [47]:
             xmin = 170.93763938098394 
+            xmax = 174.26393393195497 
+            text = "no, after machine all the cross " 
+        intervals [48]:
+            xmin = 174.26393393195497 
+            xmax = 176.32135085706463 
+            text = "from the backend in the machine " 
+        intervals [49]:
+            xmin = 176.32135085706463 
             xmax = 180.15315269137105 
-            text = "no, after machine all the cross from the backend in the machine and dog is starting close door" 
-        intervals [46]:
+            text = "and dog is starting close door" 
+        intervals [50]:
             xmin = 180.15315269137105 
             xmax = 182.3391581743001 
             text = "" 
-        intervals [47]:
+        intervals [51]:
             xmin = 182.3391581743001 
             xmax = 183.5821808998872 
             text = "the answer" 
-        intervals [48]:
+        intervals [52]:
             xmin = 183.5821808998872 
             xmax = 185.553872119784 
             text = "" 
-        intervals [49]:
+        intervals [53]:
             xmin = 185.553872119784 
             xmax = 187.43983763446786 
             text = "no is dirty " 
-        intervals [50]:
+        intervals [54]:
             xmin = 187.43983763446786 
             xmax = 197.12424591509043 
             text = "" 
-        intervals [51]:
+        intervals [55]:
             xmin = 197.12424591509043 
             xmax = 197.938640114613 
             text = "ujum" 
-        intervals [52]:
+        intervals [56]:
             xmin = 197.938640114613 
             xmax = 206.42548493069046 
             text = "" 
-        intervals [53]:
+        intervals [57]:
             xmin = 206.42548493069046 
             xmax = 207.41133054063886 
             text = "i havent" 
-        intervals [54]:
+        intervals [58]:
             xmin = 207.41133054063886 
             xmax = 215.50881465619364 
             text = "" 
-        intervals [55]:
+        intervals [59]:
             xmin = 215.50881465619364 
             xmax = 221.55247687370334 
             text = "aja because so bad because is starting under" 
-        intervals [56]:
+        intervals [60]:
             xmin = 221.55247687370334 
             xmax = 226.3102535130195 
             text = "" 
-        intervals [57]:
+        intervals [61]:
             xmin = 226.3102535130195 
             xmax = 230.08218454238724 
             text = "yeah is it the fourth and this is the fifth" 
-        intervals [58]:
+        intervals [62]:
             xmin = 230.08218454238724 
             xmax = 235.31145256037436 
             text = "" 
-        intervals [59]:
+        intervals [63]:
             xmin = 235.31145256037436 
             xmax = 237.28314378027113 
             text = "yeah thats the answer" 
-        intervals [60]:
+        intervals [64]:
             xmin = 237.28314378027113 
             xmax = 239.0803877338549 
             text = "" 
-        intervals [61]:
+        intervals [65]:
             xmin = 239.0803877338549 
+            xmax = 242.36501777457437 
+            text = "is under clothes to wash " 
+        intervals [66]:
+            xmin = 242.36501777457437 
+            xmax = 244.67961181532277 
+            text = "and is putting the detergent " 
+        intervals [67]:
+            xmin = 244.67961181532277 
             xmax = 248.89598098073236 
-            text = "is under clothes to wash and is putting the detergent to wash its washing" 
-        intervals [62]:
+            text = "to wash its washing" 
+        intervals [68]:
             xmin = 248.89598098073236 
             xmax = 251.08258563483884 
             text = "" 
-        intervals [63]:
+        intervals [69]:
             xmin = 251.08258563483884 
+            xmax = 256.42063812615174 
+            text = "and take the cross i think " 
+        intervals [70]:
+            xmin = 256.42063812615174 
             xmax = 259.05507621963886 
-            text = "and take the cross i think its alright you going teacher" 
-        intervals [64]:
+            text = "its alright you going teacher" 
+        intervals [71]:
             xmin = 259.05507621963886 
             xmax = 298.6110980161679 
             text = "" 
-        intervals [65]:
+        intervals [72]:
             xmin = 298.6110980161679 
             xmax = 305.5548801384131 
             text = "little difference of this pictures" 
-        intervals [66]:
+        intervals [73]:
             xmin = 305.5548801384131 
             xmax = 307.9958657759969 
             text = "" 
-        intervals [67]:
+        intervals [74]:
             xmin = 307.9958657759969 
             xmax = 316.4827105920744 
             text = "i think is the man there the show " 
-        intervals [68]:
+        intervals [75]:
             xmin = 316.4827105920744 
             xmax = 317.72573331766154 
             text = "" 
-        intervals [69]:
+        intervals [76]:
             xmin = 317.72573331766154 
             xmax = 323.2979041565003 
             text = "speaking or no speaking i think" 
-        intervals [70]:
+        intervals [77]:
             xmin = 323.2979041565003 
             xmax = 1315 
             text = "" 
@@ -297,19 +325,19 @@ item []:
         name = "ColombianSpeaker" 
         xmin = 0 
         xmax = 1315 
-        intervals: size = 74 
+        intervals: size = 85 
         intervals [1]:
             xmin = 0 
             xmax = 1.3331390380859374 
             text = "" 
         intervals [2]:
             xmin = 1.3331390380859374 
-            xmax = 6.218313146520543 
-            text = " I have a man that he have a lot of clothes" 
+            xmax = 3.7770764258774476 
+            text = " I have a man that he " 
         intervals [3]:
-            xmin = 6.218313146520543 
+            xmin = 3.7770764258774476 
             xmax = 8.103144101743343 
-            text = "of" 
+            text = "have a lot of clothes of" 
         intervals [4]:
             xmin = 8.103144101743343 
             xmax = 10.718827876338251 
@@ -324,12 +352,12 @@ item []:
             text = "" 
         intervals [7]:
             xmin = 13.757636967411745 
-            xmax = 18.758208889431423 
-            text = "there clothes no, there now clean, there now clean the clothes" 
+            xmax = 16.164440829141935 
+            text = "there clothes no, there now clean" 
         intervals [8]:
-            xmin = 18.758208889431423 
+            xmin = 16.164440829141935 
             xmax = 19.02747045446325 
-            text = "" 
+            text = " there now clean the clothes" 
         intervals [9]:
             xmin = 19.02747045446325 
             xmax = 20.335312341760705 
@@ -340,12 +368,12 @@ item []:
             text = "" 
         intervals [11]:
             xmin = 20.566107968930844 
-            xmax = 26.066737083152486 
-            text = "that he is going into a room i think to clean" 
+            xmax = 22.808182983141915 
+            text = "that he is going into " 
         intervals [12]:
-            xmin = 26.066737083152486 
+            xmin = 22.808182983141915 
             xmax = 26.98991959183304 
-            text = "" 
+            text = "a room i think to clean" 
         intervals [13]:
             xmin = 26.98991959183304 
             xmax = 28.220829603407115 
@@ -380,217 +408,261 @@ item []:
             text = "" 
         intervals [21]:
             xmin = 70.42068603255353 
-            xmax = 75.84438327105181 
-            text = "are you wash maybe i think i have the free phone" 
+            xmax = 74.4074680197291 
+            text = "are you wash maybe i think " 
         intervals [22]:
-            xmin = 75.84438327105181 
+            xmin = 74.4074680197291 
+            xmax = 76.03625641877426 
+            text = "i have the free phone" 
+        intervals [23]:
+            xmin = 76.03625641877426 
             xmax = 76.45983827683885 
             text = "" 
-        intervals [23]:
-            xmin = 76.45983827683885 
-            xmax = 80.65262550376305 
-            text = "maybe that the man has the dirty closet and his going to" 
         intervals [24]:
+            xmin = 76.45983827683885 
+            xmax = 78.5651647225549 
+            text = "maybe that the man has " 
+        intervals [25]:
+            xmin = 78.5651647225549 
+            xmax = 80.65262550376305 
+            text = "the dirty closet and his going to" 
+        intervals [26]:
             xmin = 80.65262550376305 
             xmax = 83.96069615986838 
             text = "" 
-        intervals [25]:
+        intervals [27]:
             xmin = 83.96069615986838 
             xmax = 84.65308304137879 
             text = "no" 
-        intervals [26]:
+        intervals [28]:
             xmin = 84.65308304137879 
             xmax = 85.61473148792103 
             text = "" 
-        intervals [27]:
+        intervals [29]:
             xmin = 85.61473148792103 
             xmax = 86.92257337521849 
             text = "going to" 
-        intervals [28]:
+        intervals [30]:
             xmin = 86.92257337521849 
             xmax = 88.76893839257961 
             text = "" 
-        intervals [29]:
+        intervals [31]:
             xmin = 88.76893839257961 
+            xmax = 91.97804200876134 
+            text = "picking his, he already picked " 
+        intervals [32]:
+            xmin = 91.97804200876134 
             xmax = 95.19275001548182 
-            text = "picking his, he already picked and he is going to, to washed into a room" 
-        intervals [30]:
+            text = "and he is going to, to washed into a room" 
+        intervals [33]:
             xmin = 95.19275001548182 
             xmax = 99.00087786378911 
             text = "" 
-        intervals [31]:
+        intervals [34]:
             xmin = 99.00087786378911 
             xmax = 100.84724288115024 
             text = "already you have the first one" 
-        intervals [32]:
+        intervals [35]:
             xmin = 100.84724288115024 
             xmax = 102.91144282327986 
             text = "" 
-        intervals [33]:
+        intervals [36]:
             xmin = 102.91144282327986 
+            xmax = 104.66364886673877 
+            text = "because you have dirty clothes, " 
+        intervals [37]:
+            xmin = 104.66364886673877 
             xmax = 105.75792222504491 
-            text = "because you have dirty clothes, do you have dirty clothes" 
-        intervals [34]:
+            text = "do you have dirty clothes" 
+        intervals [38]:
             xmin = 105.75792222504491 
             xmax = 111.53991157845809 
             text = "" 
-        intervals [35]:
+        intervals [39]:
             xmin = 111.53991157845809 
             xmax = 112.35430577798067 
             text = "me too" 
-        intervals [36]:
+        intervals [40]:
             xmin = 112.35430577798067 
             xmax = 114.6260369661226 
             text = " " 
-        intervals [37]:
+        intervals [41]:
             xmin = 114.6260369661226 
             xmax = 116.01277083333333 
             text = "yeah, i dont know" 
-        intervals [38]:
+        intervals [42]:
             xmin = 116.01277083333333 
             xmax = 116.89477229837745 
             text = "" 
-        intervals [39]:
+        intervals [43]:
             xmin = 116.89477229837745 
             xmax = 117.92348076093229 
             text = "what he is doing " 
-        intervals [40]:
+        intervals [44]:
             xmin = 117.92348076093229 
             xmax = 121.6525489376936 
             text = "" 
-        intervals [41]:
+        intervals [45]:
             xmin = 121.6525489376936 
             xmax = 125.46734281966779 
             text = "ok so maybe, maybe that the first one" 
-        intervals [42]:
+        intervals [46]:
             xmin = 125.46734281966779 
             xmax = 127.22471977653231 
             text = "" 
-        intervals [43]:
+        intervals [47]:
             xmin = 127.22471977653231 
             xmax = 127.86766256562909 
             text = "yours" 
-        intervals [44]:
+        intervals [48]:
             xmin = 127.86766256562909 
             xmax = 129.23927384903553 
             text = "" 
-        intervals [45]:
+        intervals [49]:
             xmin = 129.23927384903553 
             xmax = 130.3537080168033 
             text = "yeah i think" 
-        intervals [46]:
+        intervals [50]:
             xmin = 130.3537080168033 
             xmax = 132.79469365438717 
             text = "" 
-        intervals [47]:
+        intervals [51]:
             xmin = 132.79469365438717 
+            xmax = 136.2085114241034 
+            text = "because he is putting here is already " 
+        intervals [52]:
+            xmin = 136.2085114241034 
             xmax = 140.03851574487751 
-            text = "because he is putting here is already in the basket is already the door close" 
-        intervals [48]:
+            text = "in the basket is already the door close" 
+        intervals [53]:
             xmin = 140.03851574487751 
             xmax = 147.11088642494207 
             text = "" 
-        intervals [49]:
+        intervals [54]:
             xmin = 147.11088642494207 
             xmax = 148.05386918228402 
             text = "to clean" 
-        intervals [50]:
+        intervals [55]:
             xmin = 148.05386918228402 
             xmax = 152.16870303250337 
             text = "" 
-        intervals [51]:
+        intervals [56]:
             xmin = 152.16870303250337 
             xmax = 153.79749143154854 
             text = "this one the first one" 
-        intervals [52]:
+        intervals [57]:
             xmin = 153.79749143154854 
             xmax = 158.12324424146132 
             text = "" 
-        intervals [53]:
+        intervals [58]:
             xmin = 158.12324424146132 
+            xmax = 167.707914720426 
+            text = "no way no i have, oh no," 
+        intervals [59]:
+            xmin = 167.707914720426 
             xmax = 170.5118069870808 
-            text = "no way no i have, oh no, its so work you home" 
-        intervals [54]:
+            text = " its so work you home" 
+        intervals [60]:
             xmin = 170.5118069870808 
             xmax = 180.8389583330743 
             text = "" 
-        intervals [55]:
+        intervals [61]:
             xmin = 180.8389583330743 
+            xmax = 184.29384144186469 
+            text = "you already pick but is clean " 
+        intervals [62]:
+            xmin = 184.29384144186469 
             xmax = 185.553872119784 
-            text = "you already pick but is clean the house is clean" 
-        intervals [56]:
+            text = "the house is clean" 
+        intervals [63]:
             xmin = 185.553872119784 
             xmax = 188.94003747569369 
             text = "" 
-        intervals [57]:
+        intervals [64]:
             xmin = 188.94003747569369 
             xmax = 189.70897241417427 
             text = "is dirty|" 
-        intervals [58]:
+        intervals [65]:
             xmin = 189.70897241417427 
             xmax = 191.08058369758072 
             text = "" 
-        intervals [59]:
+        intervals [66]:
             xmin = 191.08058369758072 
-            xmax = 197.20997162030332 
+            xmax = 194.49240423003883 
             text = "i could this one already one i have the man" 
-        intervals [60]:
+        intervals [67]:
+            xmin = 194.49240423003883 
+            xmax = 197.20997162030332 
+            text = "i have the man" 
+        intervals [68]:
             xmin = 197.20997162030332 
             xmax = 199.69601707147754 
             text = "" 
-        intervals [61]:
+        intervals [69]:
             xmin = 199.69601707147754 
             xmax = 200.9819026496711 
             text = "how do you see that" 
-        intervals [62]:
+        intervals [70]:
             xmin = 200.9819026496711 
             xmax = 201.4105311757356 
             text = "" 
-        intervals [63]:
+        intervals [71]:
             xmin = 201.4105311757356 
             xmax = 206.51121063590338 
             text = "mmm the clothes is blending" 
-        intervals [64]:
+        intervals [72]:
             xmin = 206.51121063590338 
             xmax = 207.3684676880324 
             text = "" 
-        intervals [65]:
+        intervals [73]:
             xmin = 207.3684676880324 
+            xmax = 211.42143349605493 
+            text = "the clothes is clean is clean " 
+        intervals [74]:
+            xmin = 211.42143349605493 
+            xmax = 213.86461609462268 
+            text = "and the last one is already clean " 
+        intervals [75]:
+            xmin = 213.86461609462268 
             xmax = 215.04091830458728 
-            text = "the clothes is clean is clean and the last one is already clean ang he is going out" 
-        intervals [66]:
+            text = "ang he is going out" 
+        intervals [76]:
             xmin = 215.04091830458728 
             xmax = 224.03852232487753 
             text = "" 
-        intervals [67]:
+        intervals [77]:
             xmin = 224.03852232487753 
+            xmax = 228.47745353008395 
+            text = "is washed yeah i think this is " 
+        intervals [78]:
+            xmin = 228.47745353008395 
             xmax = 230.2107731002066 
-            text = "is washed yeah i think this is the fourth and this is the fifth" 
-        intervals [68]:
+            text = "the fourth and this is the fifth" 
+        intervals [79]:
             xmin = 230.2107731002066 
             xmax = 231.15375585754853 
             text = "" 
-        intervals [69]:
+        intervals [80]:
             xmin = 231.15375585754853 
             xmax = 234.32560695042596 
             text = "yeah you believe me" 
-        intervals [70]:
+        intervals [81]:
             xmin = 234.32560695042596 
             xmax = 305.5120172858067 
             text = "" 
-        intervals [71]:
+        intervals [82]:
             xmin = 305.5120172858067 
             xmax = 307.74088562134216 
             text = "very little difference" 
-        intervals [72]:
+        intervals [83]:
             xmin = 307.74088562134216 
             xmax = 323.4693555669261 
             text = "" 
-        intervals [73]:
+        intervals [84]:
             xmin = 323.4693555669261 
             xmax = 326.59794435974544 
             text = "you think you have the first one i have" 
-        intervals [74]:
+        intervals [85]:
             xmin = 326.59794435974544 
             xmax = 1315 
             text = "" 
