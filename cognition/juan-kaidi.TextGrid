@@ -11,7 +11,7 @@ item []:
         name = "ChineseSpeaker" 
         xmin = 0 
         xmax = 599 
-        intervals: size = 98 
+        intervals: size = 133 
         intervals [1]:
             xmin = 0 
             xmax = 11.449526938623253 
@@ -214,193 +214,333 @@ item []:
             text = "Okay" 
         intervals [51]:
             xmin = 263.8294702801726 
-            xmax = 297.646991188441 
-            text = "" 
-        intervals [52]:
-            xmin = 297.646991188441 
             xmax = 299.9254059420566 
             text = "" 
-        intervals [53]:
+        intervals [52]:
             xmin = 299.9254059420566 
             xmax = 300.88869014384915 
             text = "uhum" 
-        intervals [54]:
+        intervals [53]:
             xmin = 300.88869014384915 
             xmax = 302.76368982734914 
             text = "" 
-        intervals [55]:
+        intervals [54]:
             xmin = 302.76368982734914 
             xmax = 306.95397610514675 
             text = "P" 
-        intervals [56]:
+        intervals [55]:
             xmin = 306.95397610514675 
+            xmax = 309.9651408775295 
+            text = "" 
+        intervals [56]:
+            xmin = 309.9651408775295 
+            xmax = 310.8813343436856 
+            text = "I" 
+        intervals [57]:
+            xmin = 310.8813343436856 
             xmax = 314.7565781396663 
             text = "" 
-        intervals [57]:
+        intervals [58]:
             xmin = 314.7565781396663 
             xmax = 315.2382202405626 
             text = "yeah" 
-        intervals [58]:
-            xmin = 315.2382202405626 
-            xmax = 315.5016766096085 
-            text = "" 
         intervals [59]:
-            xmin = 315.5016766096085 
-            xmax = 342.08353444297586 
+            xmin = 315.2382202405626 
+            xmax = 320.6915173292174 
             text = "T3" 
         intervals [60]:
-            xmin = 342.08353444297586 
-            xmax = 355.2780620241578 
+            xmin = 320.6915173292174 
+            xmax = 321.72826256723613 
             text = "" 
         intervals [61]:
+            xmin = 321.72826256723613 
+            xmax = 326.1797308268339 
+            text = "T4" 
+        intervals [62]:
+            xmin = 326.1797308268339 
+            xmax = 329.9240527696821 
+            text = "" 
+        intervals [63]:
+            xmin = 329.9240527696821 
+            xmax = 337.0366073095779 
+            text = "T5" 
+        intervals [64]:
+            xmin = 337.0366073095779 
+            xmax = 340.10372306292146 
+            text = "" 
+        intervals [65]:
+            xmin = 340.10372306292146 
+            xmax = 345.1668974811524 
+            text = "T6" 
+        intervals [66]:
+            xmin = 345.1668974811524 
+            xmax = 348.7750039673985 
+            text = "" 
+        intervals [67]:
+            xmin = 348.7750039673985 
+            xmax = 350.10107345788754 
+            text = "I" 
+        intervals [68]:
+            xmin = 350.10107345788754 
+            xmax = 350.80027373469085 
+            text = "" 
+        intervals [69]:
+            xmin = 350.80027373469085 
+            xmax = 351.2583704677689 
+            text = "I" 
+        intervals [70]:
+            xmin = 351.2583704677689 
+            xmax = 353.66940590502173 
+            text = "" 
+        intervals [71]:
+            xmin = 353.66940590502173 
+            xmax = 354.22394405558987 
+            text = "I" 
+        intervals [72]:
+            xmin = 354.22394405558987 
+            xmax = 355.2780620241578 
+            text = "" 
+        intervals [73]:
             xmin = 355.2780620241578 
             xmax = 355.728121972445 
             text = "OK" 
-        intervals [62]:
+        intervals [74]:
             xmin = 355.728121972445 
-            xmax = 419.1865024093049 
+            xmax = 362.4365132499755 
             text = "" 
-        intervals [63]:
-            xmin = 419.1865024093049 
-            xmax = 451.78521282620306 
-            text = "T4" 
-        intervals [64]:
-            xmin = 451.78521282620306 
+        intervals [75]:
+            xmin = 362.4365132499755 
+            xmax = 363.5214791967393 
+            text = "P" 
+        intervals [76]:
+            xmin = 363.5214791967393 
+            xmax = 372.64712463033356 
+            text = "" 
+        intervals [77]:
+            xmin = 372.64712463033356 
+            xmax = 379.17470026272935 
+            text = "T7" 
+        intervals [78]:
+            xmin = 379.17470026272935 
+            xmax = 391.38858732308114 
+            text = "" 
+        intervals [79]:
+            xmin = 391.38858732308114 
+            xmax = 396.65980793084486 
+            text = "T8" 
+        intervals [80]:
+            xmin = 396.65980793084486 
+            xmax = 401.2223803327985 
+            text = "" 
+        intervals [81]:
+            xmin = 401.2223803327985 
+            xmax = 401.5840356483864 
+            text = "OK" 
+        intervals [82]:
+            xmin = 401.5840356483864 
+            xmax = 404.45316781871725 
+            text = "" 
+        intervals [83]:
+            xmin = 404.45316781871725 
+            xmax = 404.9112645517953 
+            text = "OK" 
+        intervals [84]:
+            xmin = 404.9112645517953 
+            xmax = 411.37272517630635 
+            text = "" 
+        intervals [85]:
+            xmin = 411.37272517630635 
+            xmax = 411.90315297250197 
+            text = "OK" 
+        intervals [86]:
+            xmin = 411.90315297250197 
+            xmax = 419.2876377959151 
+            text = "" 
+        intervals [87]:
+            xmin = 419.2876377959151 
+            xmax = 419.65933909249156 
+            text = "OK" 
+        intervals [88]:
+            xmin = 419.65933909249156 
+            xmax = 433.5027853720675 
+            text = "T9" 
+        intervals [89]:
+            xmin = 433.5027853720675 
+            xmax = 433.91054482982673 
+            text = "" 
+        intervals [90]:
+            xmin = 433.91054482982673 
+            xmax = 451.75220706549754 
+            text = "T10" 
+        intervals [91]:
+            xmin = 451.75220706549754 
             xmax = 456.5718749700781 
             text = "" 
-        intervals [65]:
+        intervals [92]:
             xmin = 456.5718749700781 
             xmax = 456.95764064003856 
             text = "uhum" 
-        intervals [66]:
+        intervals [93]:
             xmin = 456.95764064003856 
             xmax = 461.94906335242024 
             text = "" 
-        intervals [67]:
+        intervals [94]:
             xmin = 461.94906335242024 
             xmax = 462.42055472681636 
             text = "yes" 
-        intervals [68]:
+        intervals [95]:
             xmin = 462.42055472681636 
             xmax = 466.89972278357953 
             text = "" 
-        intervals [69]:
+        intervals [96]:
             xmin = 466.89972278357953 
             xmax = 467.45693986241133 
             text = "OK" 
-        intervals [70]:
+        intervals [97]:
             xmin = 467.45693986241133 
             xmax = 471.6622422592722 
             text = "" 
-        intervals [71]:
+        intervals [98]:
             xmin = 471.6622422592722 
             xmax = 472.1123022075594 
             text = "yes" 
-        intervals [72]:
+        intervals [99]:
             xmin = 472.1123022075594 
             xmax = 484.0114868770206 
             text = "" 
-        intervals [73]:
+        intervals [100]:
             xmin = 484.0114868770206 
             xmax = 484.99733247803067 
             text = "OK" 
-        intervals [74]:
+        intervals [101]:
             xmin = 484.99733247803067 
-            xmax = 504.60859867292686 
+            xmax = 490.6657285879632 
             text = "" 
-        intervals [75]:
+        intervals [102]:
+            xmin = 490.6657285879632 
+            xmax = 491.16159714090605 
+            text = "uhum	" 
+        intervals [103]:
+            xmin = 491.16159714090605 
+            xmax = 504.60859867292686 
+            text = " " 
+        intervals [104]:
             xmin = 504.60859867292686 
-            xmax = 505.23011003008537 
-            text = "I" 
-        intervals [76]:
-            xmin = 505.23011003008537 
+            xmax = 505.51637612403294 
+            text = "P" 
+        intervals [105]:
+            xmin = 505.51637612403294 
+            xmax = 509.5333576747384 
+            text = "" 
+        intervals [106]:
+            xmin = 509.5333576747384 
+            xmax = 510.3531097234044 
+            text = "uhum" 
+        intervals [107]:
+            xmin = 510.3531097234044 
             xmax = 513.95264814059 
             text = "" 
-        intervals [77]:
+        intervals [108]:
             xmin = 513.95264814059 
             xmax = 514.445570941095 
             text = "OK" 
-        intervals [78]:
+        intervals [109]:
             xmin = 514.445570941095 
             xmax = 522.6259929963172 
             text = "" 
-        intervals [79]:
+        intervals [110]:
             xmin = 522.6259929963172 
             xmax = 523.2903672056937 
             text = "OK" 
-        intervals [80]:
+        intervals [111]:
             xmin = 523.2903672056937 
             xmax = 528.0346348132275 
             text = "" 
-        intervals [81]:
+        intervals [112]:
             xmin = 528.0346348132275 
             xmax = 535.1498682813876 
             text = "P" 
-        intervals [82]:
+        intervals [113]:
             xmin = 535.1498682813876 
             xmax = 541.649101025263 
             text = "" 
-        intervals [83]:
+        intervals [114]:
             xmin = 541.649101025263 
             xmax = 542.2491809563127 
             text = "OK" 
-        intervals [84]:
+        intervals [115]:
             xmin = 542.2491809563127 
             xmax = 543.4262934554154 
             text = "" 
-        intervals [85]:
+        intervals [116]:
             xmin = 543.4262934554154 
             xmax = 543.427909392303 
             text = "T3" 
-        intervals [86]:
+        intervals [117]:
             xmin = 543.427909392303 
             xmax = 553.3736544284029 
-            text = "T5" 
-        intervals [87]:
+            text = "T11" 
+        intervals [118]:
             xmin = 553.3736544284029 
             xmax = 554.7666971254824 
             text = "P" 
-        intervals [88]:
+        intervals [119]:
             xmin = 554.7666971254824 
             xmax = 555.7414171285953 
             text = "" 
-        intervals [89]:
+        intervals [120]:
             xmin = 555.7414171285953 
             xmax = 556.2772027813182 
             text = "Ok" 
-        intervals [90]:
+        intervals [121]:
             xmin = 556.2772027813182 
             xmax = 561.3198947169894 
             text = "" 
-        intervals [91]:
+        intervals [122]:
             xmin = 561.3198947169894 
             xmax = 573.7929847123786 
-            text = "R" 
-        intervals [92]:
+            text = "T12" 
+        intervals [123]:
             xmin = 573.7929847123786 
             xmax = 575.6744461939926 
             text = "" 
-        intervals [93]:
+        intervals [124]:
             xmin = 575.6744461939926 
             xmax = 576.1888004206065 
             text = "yes" 
-        intervals [94]:
+        intervals [125]:
             xmin = 576.1888004206065 
             xmax = 576.5918707347265 
             text = "" 
-        intervals [95]:
+        intervals [126]:
             xmin = 576.5918707347265 
-            xmax = 586.3646009428269 
+            xmax = 582.4570269405081 
+            text = "T13" 
+        intervals [127]:
+            xmin = 582.4570269405081 
+            xmax = 582.6958998698326 
             text = "" 
-        intervals [96]:
-            xmin = 586.3646009428269 
+        intervals [128]:
+            xmin = 582.6958998698326 
+            xmax = 584.9863835352228 
+            text = "T14" 
+        intervals [129]:
+            xmin = 584.9863835352228 
+            xmax = 590.8997504595517 
+            text = "" 
+        intervals [130]:
+            xmin = 590.8997504595517 
+            xmax = 591.4060679013747 
+            text = "yeah" 
+        intervals [131]:
+            xmin = 591.4060679013747 
             xmax = 593.1752233251482 
             text = "" 
-        intervals [97]:
+        intervals [132]:
             xmin = 593.1752233251482 
             xmax = 593.8395975212592 
             text = "OK" 
-        intervals [98]:
+        intervals [133]:
             xmin = 593.8395975212592 
             xmax = 599 
             text = "" 
@@ -409,7 +549,7 @@ item []:
         name = "ColombianSpeaker" 
         xmin = 0 
         xmax = 599 
-        intervals: size = 79 
+        intervals: size = 91 
         intervals [1]:
             xmin = 0 
             xmax = 6.348847524701666 
@@ -568,161 +708,209 @@ item []:
             text = "T4" 
         intervals [40]:
             xmin = 277.3971789440022 
-            xmax = 294.305702058427 
+            xmax = 291.9244940989724 
             text = "" 
         intervals [41]:
+            xmin = 291.9244940989724 
+            xmax = 292.5513633126581 
+            text = "OK" 
+        intervals [42]:
+            xmin = 292.5513633126581 
+            xmax = 294.305702058427 
+            text = "" 
+        intervals [43]:
             xmin = 294.305702058427 
             xmax = 302.76368982734914 
             text = "T5" 
-        intervals [42]:
+        intervals [44]:
             xmin = 302.76368982734914 
             xmax = 306.85764768496745 
             text = "" 
-        intervals [43]:
+        intervals [45]:
             xmin = 306.85764768496745 
             xmax = 307.72460346658073 
             text = "R" 
-        intervals [44]:
+        intervals [46]:
             xmin = 307.72460346658073 
             xmax = 312.2520392150057 
-            text = "" 
-        intervals [45]:
+            text = "T6" 
+        intervals [47]:
             xmin = 312.2520392150057 
             xmax = 314.7084139295767 
             text = "P" 
-        intervals [46]:
+        intervals [48]:
             xmin = 314.7084139295767 
             xmax = 318.54136721272283 
             text = "" 
-        intervals [47]:
+        intervals [49]:
             xmin = 318.54136721272283 
             xmax = 319.0771528654457 
             text = "OK" 
-        intervals [48]:
+        intervals [50]:
             xmin = 319.0771528654457 
             xmax = 322.83355511428147 
             text = "" 
-        intervals [49]:
+        intervals [51]:
             xmin = 322.83355511428147 
             xmax = 323.90512641972714 
             text = "OK" 
-        intervals [50]:
-            xmin = 323.90512641972714 
-            xmax = 325.39738020740475 
-            text = "" 
-        intervals [51]:
-            xmin = 325.39738020740475 
-            xmax = 329.04072264592014 
-            text = "I" 
         intervals [52]:
-            xmin = 329.04072264592014 
-            xmax = 338.33303487391584 
+            xmin = 323.90512641972714 
+            xmax = 325.0465441713251 
             text = "" 
         intervals [53]:
+            xmin = 325.0465441713251 
+            xmax = 326.1797308268339 
+            text = "I" 
+        intervals [54]:
+            xmin = 326.1797308268339 
+            xmax = 329.9230518098085 
+            text = "T7" 
+        intervals [55]:
+            xmin = 329.9230518098085 
+            xmax = 338.33303487391584 
+            text = "" 
+        intervals [56]:
             xmin = 338.33303487391584 
             xmax = 338.93311480496544 
             text = "uhum" 
-        intervals [54]:
+        intervals [57]:
             xmin = 338.93311480496544 
             xmax = 339.42603760547047 
             text = "yeah" 
-        intervals [55]:
+        intervals [58]:
             xmin = 339.42603760547047 
-            xmax = 341.2262773986193 
+            xmax = 346.2759737822887 
             text = "" 
-        intervals [56]:
-            xmin = 341.2262773986193 
-            xmax = 344.50528559328313 
-            text = "I" 
-        intervals [57]:
-            xmin = 344.50528559328313 
+        intervals [59]:
+            xmin = 346.2759737822887 
+            xmax = 354.95570135639883 
+            text = "T8" 
+        intervals [60]:
+            xmin = 354.95570135639883 
+            xmax = 358.088317140614 
+            text = "" 
+        intervals [61]:
+            xmin = 358.088317140614 
+            xmax = 372.5135260704921 
+            text = "T9" 
+        intervals [62]:
+            xmin = 372.5135260704921 
+            xmax = 375.3474843200567 
+            text = "" 
+        intervals [63]:
+            xmin = 375.3474843200567 
+            xmax = 376.0225742424875 
+            text = "yeah" 
+        intervals [64]:
+            xmin = 376.0225742424875 
+            xmax = 379.4640245151997 
+            text = "" 
+        intervals [65]:
+            xmin = 379.4640245151997 
+            xmax = 387.5892139387417 
+            text = "T10" 
+        intervals [66]:
+            xmin = 387.5892139387417 
             xmax = 432.99469963984643 
             text = "" 
-        intervals [58]:
+        intervals [67]:
             xmin = 432.99469963984643 
-            xmax = 433.7233681275495 
+            xmax = 433.45456466332246 
             text = "OK" 
-        intervals [59]:
-            xmin = 433.7233681275495 
+        intervals [68]:
+            xmin = 433.45456466332246 
             xmax = 452.6599542848572 
             text = "" 
-        intervals [60]:
+        intervals [69]:
             xmin = 452.6599542848572 
             xmax = 453.217171363689 
             text = "OK" 
-        intervals [61]:
+        intervals [70]:
             xmin = 453.217171363689 
-            xmax = 527.2176381539941 
-            text = "T6" 
-        intervals [62]:
-            xmin = 527.2176381539941 
+            xmax = 481.7803000855473 
+            text = "T11" 
+        intervals [71]:
+            xmin = 481.7803000855473 
+            xmax = 484.89290500404854 
+            text = "" 
+        intervals [72]:
+            xmin = 484.89290500404854 
+            xmax = 513.8735509598282 
+            text = "T12" 
+        intervals [73]:
+            xmin = 513.8735509598282 
+            xmax = 514.5141384233317 
+            text = "" 
+        intervals [74]:
+            xmin = 514.5141384233317 
+            xmax = 527.1310707752704 
+            text = "T13" 
+        intervals [75]:
+            xmin = 527.1310707752704 
             xmax = 535.283967470915 
             text = "" 
-        intervals [63]:
+        intervals [76]:
             xmin = 535.283967470915 
             xmax = 543.427909392303 
             text = "R" 
-        intervals [64]:
+        intervals [77]:
             xmin = 543.427909392303 
             xmax = 555.312788606417 
             text = "" 
-        intervals [65]:
+        intervals [78]:
             xmin = 555.312788606417 
             xmax = 555.7628485547043 
             text = "yes" 
-        intervals [66]:
+        intervals [79]:
             xmin = 555.7628485547043 
-            xmax = 557.5590893197174 
+            xmax = 557.7148172530884 
             text = "" 
-        intervals [67]:
-            xmin = 557.5590893197174 
+        intervals [80]:
+            xmin = 557.7148172530884 
             xmax = 560.9452546449261 
-            text = "P" 
-        intervals [68]:
+            text = "T14" 
+        intervals [81]:
             xmin = 560.9452546449261 
             xmax = 563.8488029978415 
             text = "" 
-        intervals [69]:
+        intervals [82]:
             xmin = 563.8488029978415 
             xmax = 564.4060200766734 
             text = "yeah" 
-        intervals [70]:
+        intervals [83]:
             xmin = 564.4060200766734 
             xmax = 567.7064596974465 
             text = "" 
-        intervals [71]:
+        intervals [84]:
             xmin = 567.7064596974465 
             xmax = 568.2422453501694 
             text = "yeah" 
-        intervals [72]:
+        intervals [85]:
             xmin = 568.2422453501694 
             xmax = 572.678550554715 
             text = "I" 
-        intervals [73]:
+        intervals [86]:
             xmin = 572.678550554715 
             xmax = 575.1279448282153 
             text = "" 
-        intervals [74]:
+        intervals [87]:
             xmin = 575.1279448282153 
             xmax = 575.567289063448 
             text = "yes" 
-        intervals [75]:
+        intervals [88]:
             xmin = 575.567289063448 
-            xmax = 580.5781159511885 
+            xmax = 585.1069353070855 
             text = "" 
-        intervals [76]:
-            xmin = 580.5781159511885 
-            xmax = 582.1640414674154 
-            text = "I" 
-        intervals [77]:
-            xmin = 582.1640414674154 
+        intervals [89]:
+            xmin = 585.1069353070855 
             xmax = 592.1465148924602 
-            text = "" 
-        intervals [78]:
+            text = "T15" 
+        intervals [90]:
             xmin = 592.1465148924602 
             xmax = 592.4894177033563 
             text = "yeah" 
-        intervals [79]:
+        intervals [91]:
             xmin = 592.4894177033563 
             xmax = 599 
             text = "" 
